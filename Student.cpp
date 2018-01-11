@@ -4,6 +4,8 @@
 #include<malloc.h>
 #include<string.h>
 
+//Zmiana
+
 typedef struct
 {
 	char name[6];
