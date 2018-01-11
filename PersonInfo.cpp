@@ -1,5 +1,7 @@
 #include<iostream.h>
 #include<conio.h>
+
+//ZMIANA NA NOWYM BRANCHU
 class person
 {
 	char *name,*add,*eadd;
