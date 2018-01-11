@@ -26,7 +26,6 @@ class person
 	cout<<"E-mail address:"<<eadd<<endl;
 	cout<<"Phone no:"<<pno<<endl;
 	cout<<"Citizenship no:"<<ctzno<<endl;
-	cout<<"********************Thank YOU******************************"<<endl;
   }
 };
 void main()
